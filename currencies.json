@@ -8,8 +8,8 @@
     "code": "USD",
     "name_plural": "US dollars",
     "flag": {
-      "png": "https://raw.githubusercontent.com/ericwafula/currency-details/main/assets/flags_png_rectangle/aed.png?token=GHSAT0AAAAAACP4XN2H2P7AUSWKXTEVGZI2ZQAE6RQ",
-      "svg": "https://raw.githubusercontent.com/ericwafula/currency-details/8aa6e7568e8fe9b063e1fdbf831bb8420cae3144/assets/flags_svg/aed.svg?token=ATU64B3JFNIREZXOBR5ZA4LGAANEY"
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/usd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/aed.svg"
     }
   },
   {
