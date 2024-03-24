@@ -9,7 +9,7 @@
     "name_plural": "US dollars",
     "flag": {
       "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/usd.png",
-      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/aed.svg"
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/usd.svg"
     }
   },
   {
@@ -21,47 +21,47 @@
     "code": "CAD",
     "name_plural": "Canadian dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/cad.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/cad.svg"
     }
   },
   {
-    "symbol": "€",
+    "symbol": "\u20ac",
     "name": "Euro",
-    "symbol_native": "€",
+    "symbol_native": "\u20ac",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "EUR",
     "name_plural": "euros",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/eur.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/eur.svg"
     }
   },
   {
     "symbol": "AED",
     "name": "United Arab Emirates Dirham",
-    "symbol_native": "د.إ.‏",
+    "symbol_native": "\u062f.\u0625.\u200f",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "AED",
     "name_plural": "UAE dirhams",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/aed.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/aed.svg"
     }
   },
   {
     "symbol": "Af",
     "name": "Afghan Afghani",
-    "symbol_native": "؋",
+    "symbol_native": "\u060b",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "AFN",
     "name_plural": "Afghan Afghanis",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/afn.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/afn.svg"
     }
   },
   {
@@ -71,23 +71,23 @@
     "decimal_digits": 0,
     "rounding": 0,
     "code": "ALL",
-    "name_plural": "Albanian lekë",
+    "name_plural": "Albanian lek\u00eb",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/all.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/all.svg"
     }
   },
   {
     "symbol": "AMD",
     "name": "Armenian Dram",
-    "symbol_native": "դր.",
+    "symbol_native": "\u0564\u0580.",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "AMD",
     "name_plural": "Armenian drams",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/amd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/amd.svg"
     }
   },
   {
@@ -99,8 +99,8 @@
     "code": "ARS",
     "name_plural": "Argentine pesos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ars.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ars.svg"
     }
   },
   {
@@ -112,21 +112,21 @@
     "code": "AUD",
     "name_plural": "Australian dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/aud.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/aud.svg"
     }
   },
   {
     "symbol": "man.",
     "name": "Azerbaijani Manat",
-    "symbol_native": "ман.",
+    "symbol_native": "\u043c\u0430\u043d.",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "AZN",
     "name_plural": "Azerbaijani manats",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/azn.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/azn.svg"
     }
   },
   {
@@ -138,47 +138,47 @@
     "code": "BAM",
     "name_plural": "Bosnia-Herzegovina convertible marks",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bam.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bam.svg"
     }
   },
   {
     "symbol": "Tk",
     "name": "Bangladeshi Taka",
-    "symbol_native": "৳",
+    "symbol_native": "\u09f3",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "BDT",
     "name_plural": "Bangladeshi takas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bdt.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bdt.svg"
     }
   },
   {
     "symbol": "BGN",
     "name": "Bulgarian Lev",
-    "symbol_native": "лв.",
+    "symbol_native": "\u043b\u0432.",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "BGN",
     "name_plural": "Bulgarian leva",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bgn.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bgn.svg"
     }
   },
   {
     "symbol": "BD",
     "name": "Bahraini Dinar",
-    "symbol_native": "د.ب.‏",
+    "symbol_native": "\u062f.\u0628.\u200f",
     "decimal_digits": 3,
     "rounding": 0,
     "code": "BHD",
     "name_plural": "Bahraini dinars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bhd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bhd.svg"
     }
   },
   {
@@ -190,8 +190,8 @@
     "code": "BIF",
     "name_plural": "Burundian francs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bif.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bif.svg"
     }
   },
   {
@@ -203,8 +203,8 @@
     "code": "BND",
     "name_plural": "Brunei dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bnd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bnd.svg"
     }
   },
   {
@@ -216,8 +216,8 @@
     "code": "BOB",
     "name_plural": "Bolivian bolivianos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bob.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bob.svg"
     }
   },
   {
@@ -229,8 +229,8 @@
     "code": "BRL",
     "name_plural": "Brazilian reals",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/brl.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/brl.svg"
     }
   },
   {
@@ -242,21 +242,21 @@
     "code": "BWP",
     "name_plural": "Botswanan pulas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bwp.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bwp.svg"
     }
   },
   {
     "symbol": "Br",
     "name": "Belarusian Ruble",
-    "symbol_native": "руб.",
+    "symbol_native": "\u0440\u0443\u0431.",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "BYN",
     "name_plural": "Belarusian rubles",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/byn.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/byn.svg"
     }
   },
   {
@@ -268,8 +268,8 @@
     "code": "BZD",
     "name_plural": "Belize dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bzd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bzd.svg"
     }
   },
   {
@@ -281,8 +281,8 @@
     "code": "CDF",
     "name_plural": "Congolese francs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/cdf.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/cdf.svg"
     }
   },
   {
@@ -294,8 +294,8 @@
     "code": "CHF",
     "name_plural": "Swiss francs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/chf.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/chf.svg"
     }
   },
   {
@@ -307,21 +307,21 @@
     "code": "CLP",
     "name_plural": "Chilean pesos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/clp.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/clp.svg"
     }
   },
   {
-    "symbol": "CN¥",
+    "symbol": "CN\u00a5",
     "name": "Chinese Yuan",
-    "symbol_native": "CN¥",
+    "symbol_native": "CN\u00a5",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "CNY",
     "name_plural": "Chinese yuan",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/cny.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/cny.svg"
     }
   },
   {
@@ -333,21 +333,21 @@
     "code": "COP",
     "name_plural": "Colombian pesos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/cop.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/cop.svg"
     }
   },
   {
-    "symbol": "₡",
-    "name": "Costa Rican Colón",
-    "symbol_native": "₡",
+    "symbol": "\u20a1",
+    "name": "Costa Rican Col\u00f3n",
+    "symbol_native": "\u20a1",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "CRC",
-    "name_plural": "Costa Rican colóns",
+    "name_plural": "Costa Rican col\u00f3ns",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/crc.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/crc.svg"
     }
   },
   {
@@ -359,21 +359,21 @@
     "code": "CVE",
     "name_plural": "Cape Verdean escudos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/cve.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/cve.svg"
     }
   },
   {
-    "symbol": "Kč",
+    "symbol": "K\u010d",
     "name": "Czech Republic Koruna",
-    "symbol_native": "Kč",
+    "symbol_native": "K\u010d",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "CZK",
     "name_plural": "Czech Republic korunas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/czk.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/czk.svg"
     }
   },
   {
@@ -385,8 +385,8 @@
     "code": "DJF",
     "name_plural": "Djiboutian francs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/djf.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/djf.svg"
     }
   },
   {
@@ -398,8 +398,8 @@
     "code": "DKK",
     "name_plural": "Danish kroner",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/dkk.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/dkk.svg"
     }
   },
   {
@@ -411,21 +411,21 @@
     "code": "DOP",
     "name_plural": "Dominican pesos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/dop.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/dop.svg"
     }
   },
   {
     "symbol": "DA",
     "name": "Algerian Dinar",
-    "symbol_native": "د.ج.‏",
+    "symbol_native": "\u062f.\u062c.\u200f",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "DZD",
     "name_plural": "Algerian dinars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/dzd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/dzd.svg"
     }
   },
   {
@@ -437,21 +437,21 @@
     "code": "EEK",
     "name_plural": "Estonian kroons",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/eek.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/eek.svg"
     }
   },
   {
     "symbol": "EGP",
     "name": "Egyptian Pound",
-    "symbol_native": "ج.م.‏",
+    "symbol_native": "\u062c.\u0645.\u200f",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "EGP",
     "name_plural": "Egyptian pounds",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/egp.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/egp.svg"
     }
   },
   {
@@ -463,8 +463,8 @@
     "code": "ERN",
     "name_plural": "Eritrean nakfas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ern.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ern.svg"
     }
   },
   {
@@ -476,21 +476,21 @@
     "code": "ETB",
     "name_plural": "Ethiopian birrs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/etb.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/etb.svg"
     }
   },
   {
-    "symbol": "£",
+    "symbol": "\u00a3",
     "name": "British Pound Sterling",
-    "symbol_native": "£",
+    "symbol_native": "\u00a3",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "GBP",
     "name_plural": "British pounds sterling",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/gbp.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/gbp.svg"
     }
   },
   {
@@ -502,21 +502,21 @@
     "code": "GEL",
     "name_plural": "Georgian laris",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/gel.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/gel.svg"
     }
   },
   {
-    "symbol": "GH₵",
+    "symbol": "GH\u20b5",
     "name": "Ghanaian Cedi",
-    "symbol_native": "GH₵",
+    "symbol_native": "GH\u20b5",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "GHS",
     "name_plural": "Ghanaian cedis",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ghs.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ghs.svg"
     }
   },
   {
@@ -528,8 +528,8 @@
     "code": "GNF",
     "name_plural": "Guinean francs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/gnf.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/gnf.svg"
     }
   },
   {
@@ -541,8 +541,8 @@
     "code": "GTQ",
     "name_plural": "Guatemalan quetzals",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/gtq.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/gtq.svg"
     }
   },
   {
@@ -554,8 +554,8 @@
     "code": "HKD",
     "name_plural": "Hong Kong dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/hkd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/hkd.svg"
     }
   },
   {
@@ -567,8 +567,8 @@
     "code": "HNL",
     "name_plural": "Honduran lempiras",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/hnl.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/hnl.svg"
     }
   },
   {
@@ -580,8 +580,8 @@
     "code": "HRK",
     "name_plural": "Croatian kunas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/hrk.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/hrk.svg"
     }
   },
   {
@@ -593,8 +593,8 @@
     "code": "HUF",
     "name_plural": "Hungarian forints",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/huf.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/huf.svg"
     }
   },
   {
@@ -606,73 +606,73 @@
     "code": "IDR",
     "name_plural": "Indonesian rupiahs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/idr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/idr.svg"
     }
   },
   {
-    "symbol": "₪",
+    "symbol": "\u20aa",
     "name": "Israeli New Sheqel",
-    "symbol_native": "₪",
+    "symbol_native": "\u20aa",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "ILS",
     "name_plural": "Israeli new sheqels",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ils.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ils.svg"
     }
   },
   {
     "symbol": "Rs",
     "name": "Indian Rupee",
-    "symbol_native": "টকা",
+    "symbol_native": "\u099f\u0995\u09be",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "INR",
     "name_plural": "Indian rupees",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/inr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/inr.svg"
     }
   },
   {
     "symbol": "IQD",
     "name": "Iraqi Dinar",
-    "symbol_native": "د.ع.‏",
+    "symbol_native": "\u062f.\u0639.\u200f",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "IQD",
     "name_plural": "Iraqi dinars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/iqd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/iqd.svg"
     }
   },
   {
     "symbol": "IRR",
     "name": "Iranian Rial",
-    "symbol_native": "﷼",
+    "symbol_native": "\ufdfc",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "IRR",
     "name_plural": "Iranian rials",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/irr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/irr.svg"
     }
   },
   {
     "symbol": "Ikr",
-    "name": "Icelandic Króna",
+    "name": "Icelandic Kr\u00f3na",
     "symbol_native": "kr",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "ISK",
-    "name_plural": "Icelandic krónur",
+    "name_plural": "Icelandic kr\u00f3nur",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/isk.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/isk.svg"
     }
   },
   {
@@ -684,34 +684,34 @@
     "code": "JMD",
     "name_plural": "Jamaican dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/jmd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/jmd.svg"
     }
   },
   {
     "symbol": "JD",
     "name": "Jordanian Dinar",
-    "symbol_native": "د.أ.‏",
+    "symbol_native": "\u062f.\u0623.\u200f",
     "decimal_digits": 3,
     "rounding": 0,
     "code": "JOD",
     "name_plural": "Jordanian dinars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/jod.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/jod.svg"
     }
   },
   {
-    "symbol": "¥",
+    "symbol": "\u00a5",
     "name": "Japanese Yen",
-    "symbol_native": "￥",
+    "symbol_native": "\uffe5",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "JPY",
     "name_plural": "Japanese yen",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/jpy.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/jpy.svg"
     }
   },
   {
@@ -723,21 +723,21 @@
     "code": "KES",
     "name_plural": "Kenyan shillings",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/kes.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/kes.svg"
     }
   },
   {
     "symbol": "KHR",
     "name": "Cambodian Riel",
-    "symbol_native": "៛",
+    "symbol_native": "\u17db",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "KHR",
     "name_plural": "Cambodian riels",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/khr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/khr.svg"
     }
   },
   {
@@ -749,60 +749,60 @@
     "code": "KMF",
     "name_plural": "Comorian francs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/kmf.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/kmf.svg"
     }
   },
   {
-    "symbol": "₩",
+    "symbol": "\u20a9",
     "name": "South Korean Won",
-    "symbol_native": "₩",
+    "symbol_native": "\u20a9",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "KRW",
     "name_plural": "South Korean won",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/krw.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/krw.svg"
     }
   },
   {
     "symbol": "KD",
     "name": "Kuwaiti Dinar",
-    "symbol_native": "د.ك.‏",
+    "symbol_native": "\u062f.\u0643.\u200f",
     "decimal_digits": 3,
     "rounding": 0,
     "code": "KWD",
     "name_plural": "Kuwaiti dinars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/kwd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/kwd.svg"
     }
   },
   {
     "symbol": "KZT",
     "name": "Kazakhstani Tenge",
-    "symbol_native": "тңг.",
+    "symbol_native": "\u0442\u04a3\u0433.",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "KZT",
     "name_plural": "Kazakhstani tenges",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/kzt.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/kzt.svg"
     }
   },
   {
-    "symbol": "LB£",
+    "symbol": "LB\u00a3",
     "name": "Lebanese Pound",
-    "symbol_native": "ل.ل.‏",
+    "symbol_native": "\u0644.\u0644.\u200f",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "LBP",
     "name_plural": "Lebanese pounds",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/lbp.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/lbp.svg"
     }
   },
   {
@@ -814,8 +814,8 @@
     "code": "LKR",
     "name_plural": "Sri Lankan rupees",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/lkr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/lkr.svg"
     }
   },
   {
@@ -827,8 +827,8 @@
     "code": "LTL",
     "name_plural": "Lithuanian litai",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ltl.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ltl.svg"
     }
   },
   {
@@ -840,34 +840,34 @@
     "code": "LVL",
     "name_plural": "Latvian lati",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/lvl.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/lvl.svg"
     }
   },
   {
     "symbol": "LD",
     "name": "Libyan Dinar",
-    "symbol_native": "د.ل.‏",
+    "symbol_native": "\u062f.\u0644.\u200f",
     "decimal_digits": 3,
     "rounding": 0,
     "code": "LYD",
     "name_plural": "Libyan dinars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/lyd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/lyd.svg"
     }
   },
   {
     "symbol": "MAD",
     "name": "Moroccan Dirham",
-    "symbol_native": "د.م.‏",
+    "symbol_native": "\u062f.\u0645.\u200f",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "MAD",
     "name_plural": "Moroccan dirhams",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mad.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mad.svg"
     }
   },
   {
@@ -879,8 +879,8 @@
     "code": "MDL",
     "name_plural": "Moldovan lei",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mdl.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mdl.svg"
     }
   },
   {
@@ -892,8 +892,8 @@
     "code": "MGA",
     "name_plural": "Malagasy Ariaries",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mga.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mga.svg"
     }
   },
   {
@@ -905,8 +905,8 @@
     "code": "MKD",
     "name_plural": "Macedonian denari",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mkd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mkd.svg"
     }
   },
   {
@@ -918,8 +918,8 @@
     "code": "MMK",
     "name_plural": "Myanma kyats",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mmk.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mmk.svg"
     }
   },
   {
@@ -930,8 +930,8 @@
     "rounding": 0,
     "code": "MOP",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mop.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mop.svg"
     }
   },
   {
@@ -943,8 +943,8 @@
     "code": "MUR",
     "name_plural": "Mauritian rupees",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mur.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mur.svg"
     }
   },
   {
@@ -956,8 +956,8 @@
     "code": "MXN",
     "name_plural": "Mexican pesos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mxn.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mxn.svg"
     }
   },
   {
@@ -969,8 +969,8 @@
     "code": "MYR",
     "name_plural": "Malaysian ringgits",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/myr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/myr.svg"
     }
   },
   {
@@ -982,8 +982,8 @@
     "code": "MZN",
     "name_plural": "Mozambican meticals",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mzn.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mzn.svg"
     }
   },
   {
@@ -995,34 +995,34 @@
     "code": "NAD",
     "name_plural": "Namibian dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/nad.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/nad.svg"
     }
   },
   {
-    "symbol": "₦",
+    "symbol": "\u20a6",
     "name": "Nigerian Naira",
-    "symbol_native": "₦",
+    "symbol_native": "\u20a6",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "NGN",
     "name_plural": "Nigerian nairas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ngn.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ngn.svg"
     }
   },
   {
     "symbol": "C$",
-    "name": "Nicaraguan Córdoba",
+    "name": "Nicaraguan C\u00f3rdoba",
     "symbol_native": "C$",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "NIO",
-    "name_plural": "Nicaraguan córdobas",
+    "name_plural": "Nicaraguan c\u00f3rdobas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/nio.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/nio.svg"
     }
   },
   {
@@ -1034,21 +1034,21 @@
     "code": "NOK",
     "name_plural": "Norwegian kroner",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/nok.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/nok.svg"
     }
   },
   {
     "symbol": "NPRs",
     "name": "Nepalese Rupee",
-    "symbol_native": "नेरू",
+    "symbol_native": "\u0928\u0947\u0930\u0942",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "NPR",
     "name_plural": "Nepalese rupees",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/npr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/npr.svg"
     }
   },
   {
@@ -1060,21 +1060,21 @@
     "code": "NZD",
     "name_plural": "New Zealand dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/nzd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/nzd.svg"
     }
   },
   {
     "symbol": "OMR",
     "name": "Omani Rial",
-    "symbol_native": "ر.ع.‏",
+    "symbol_native": "\u0631.\u0639.\u200f",
     "decimal_digits": 3,
     "rounding": 0,
     "code": "OMR",
     "name_plural": "Omani rials",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/omr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/omr.svg"
     }
   },
   {
@@ -1086,8 +1086,8 @@
     "code": "PAB",
     "name_plural": "Panamanian balboas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/pab.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/pab.svg"
     }
   },
   {
@@ -1099,73 +1099,73 @@
     "code": "PEN",
     "name_plural": "Peruvian nuevos soles",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/pen.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/pen.svg"
     }
   },
   {
-    "symbol": "₱",
+    "symbol": "\u20b1",
     "name": "Philippine Peso",
-    "symbol_native": "₱",
+    "symbol_native": "\u20b1",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "PHP",
     "name_plural": "Philippine pesos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/php.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/php.svg"
     }
   },
   {
     "symbol": "PKRs",
     "name": "Pakistani Rupee",
-    "symbol_native": "₨",
+    "symbol_native": "\u20a8",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "PKR",
     "name_plural": "Pakistani rupees",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/pkr.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/pkr.svg"
     }
   },
   {
-    "symbol": "zł",
+    "symbol": "z\u0142",
     "name": "Polish Zloty",
-    "symbol_native": "zł",
+    "symbol_native": "z\u0142",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "PLN",
     "name_plural": "Polish zlotys",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/pln.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/pln.svg"
     }
   },
   {
-    "symbol": "₲",
+    "symbol": "\u20b2",
     "name": "Paraguayan Guarani",
-    "symbol_native": "₲",
+    "symbol_native": "\u20b2",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "PYG",
     "name_plural": "Paraguayan guaranis",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/pyg.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/pyg.svg"
     }
   },
   {
     "symbol": "QR",
     "name": "Qatari Rial",
-    "symbol_native": "ر.ق.‏",
+    "symbol_native": "\u0631.\u0642.\u200f",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "QAR",
     "name_plural": "Qatari rials",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/qar.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/qar.svg"
     }
   },
   {
@@ -1177,34 +1177,34 @@
     "code": "RON",
     "name_plural": "Romanian lei",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ron.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ron.svg"
     }
   },
   {
     "symbol": "din.",
     "name": "Serbian Dinar",
-    "symbol_native": "дин.",
+    "symbol_native": "\u0434\u0438\u043d.",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "RSD",
     "name_plural": "Serbian dinars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/rsd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/rsd.svg"
     }
   },
   {
     "symbol": "RUB",
     "name": "Russian Ruble",
-    "symbol_native": "₽.",
+    "symbol_native": "\u20bd.",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "RUB",
     "name_plural": "Russian rubles",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/rub.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/rub.svg"
     }
   },
   {
@@ -1216,21 +1216,21 @@
     "code": "RWF",
     "name_plural": "Rwandan francs",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/rwf.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/rwf.svg"
     }
   },
   {
     "symbol": "SR",
     "name": "Saudi Riyal",
-    "symbol_native": "ر.س.‏",
+    "symbol_native": "\u0631.\u0633.\u200f",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "SAR",
     "name_plural": "Saudi riyals",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/sar.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/sar.svg"
     }
   },
   {
@@ -1242,8 +1242,8 @@
     "code": "SDG",
     "name_plural": "Sudanese pounds",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/sdg.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/sdg.svg"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     "code": "SEK",
     "name_plural": "Swedish kronor",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/sek.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/sek.svg"
     }
   },
   {
@@ -1268,8 +1268,8 @@
     "code": "SGD",
     "name_plural": "Singapore dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/sgd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/sgd.svg"
     }
   },
   {
@@ -1281,60 +1281,60 @@
     "code": "SOS",
     "name_plural": "Somali shillings",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/sos.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/sos.svg"
     }
   },
   {
-    "symbol": "SY£",
+    "symbol": "SY\u00a3",
     "name": "Syrian Pound",
-    "symbol_native": "ل.س.‏",
+    "symbol_native": "\u0644.\u0633.\u200f",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "SYP",
     "name_plural": "Syrian pounds",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/syp.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/syp.svg"
     }
   },
   {
-    "symbol": "฿",
+    "symbol": "\u0e3f",
     "name": "Thai Baht",
-    "symbol_native": "฿",
+    "symbol_native": "\u0e3f",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "THB",
     "name_plural": "Thai baht",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/thb.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/thb.svg"
     }
   },
   {
     "symbol": "DT",
     "name": "Tunisian Dinar",
-    "symbol_native": "د.ت.‏",
+    "symbol_native": "\u062f.\u062a.\u200f",
     "decimal_digits": 3,
     "rounding": 0,
     "code": "TND",
     "name_plural": "Tunisian dinars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/tnd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/tnd.svg"
     }
   },
   {
     "symbol": "T$",
-    "name": "Tongan Paʻanga",
+    "name": "Tongan Pa\u02bbanga",
     "symbol_native": "T$",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "TOP",
-    "name_plural": "Tongan paʻanga",
+    "name_plural": "Tongan pa\u02bbanga",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/top.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/top.svg"
     }
   },
   {
@@ -1346,8 +1346,8 @@
     "code": "TRY",
     "name_plural": "Turkish Lira",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/try.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/try.svg"
     }
   },
   {
@@ -1359,8 +1359,8 @@
     "code": "TTD",
     "name_plural": "Trinidad and Tobago dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ttd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ttd.svg"
     }
   },
   {
@@ -1372,8 +1372,8 @@
     "code": "TWD",
     "name_plural": "New Taiwan dollars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/twd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/twd.svg"
     }
   },
   {
@@ -1385,21 +1385,21 @@
     "code": "TZS",
     "name_plural": "Tanzanian shillings",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/tzs.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/tzs.svg"
     }
   },
   {
-    "symbol": "₴",
+    "symbol": "\u20b4",
     "name": "Ukrainian Hryvnia",
-    "symbol_native": "₴",
+    "symbol_native": "\u20b4",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "UAH",
     "name_plural": "Ukrainian hryvnias",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/uah.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/uah.svg"
     }
   },
   {
@@ -1411,8 +1411,8 @@
     "code": "UGX",
     "name_plural": "Ugandan shillings",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ugx.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ugx.svg"
     }
   },
   {
@@ -1424,8 +1424,8 @@
     "code": "UYU",
     "name_plural": "Uruguayan pesos",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/uyu.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/uyu.svg"
     }
   },
   {
@@ -1437,34 +1437,34 @@
     "code": "UZS",
     "name_plural": "Uzbekistan som",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/uzs.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/uzs.svg"
     }
   },
   {
     "symbol": "Bs.F.",
-    "name": "Venezuelan Bolívar",
+    "name": "Venezuelan Bol\u00edvar",
     "symbol_native": "Bs.F.",
     "decimal_digits": 2,
     "rounding": 0,
     "code": "VEF",
-    "name_plural": "Venezuelan bolívars",
+    "name_plural": "Venezuelan bol\u00edvars",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/vef.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/vef.svg"
     }
   },
   {
-    "symbol": "₫",
+    "symbol": "\u20ab",
     "name": "Vietnamese Dong",
-    "symbol_native": "₫",
+    "symbol_native": "\u20ab",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "VND",
     "name_plural": "Vietnamese dong",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/vnd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/vnd.svg"
     }
   },
   {
@@ -1476,8 +1476,8 @@
     "code": "XAF",
     "name_plural": "CFA francs BEAC",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/xaf.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/xaf.svg"
     }
   },
   {
@@ -1489,21 +1489,21 @@
     "code": "XOF",
     "name_plural": "CFA francs BCEAO",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/xof.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/xof.svg"
     }
   },
   {
     "symbol": "YR",
     "name": "Yemeni Rial",
-    "symbol_native": "ر.ي.‏",
+    "symbol_native": "\u0631.\u064a.\u200f",
     "decimal_digits": 0,
     "rounding": 0,
     "code": "YER",
     "name_plural": "Yemeni rials",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/yer.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/yer.svg"
     }
   },
   {
@@ -1515,8 +1515,8 @@
     "code": "ZAR",
     "name_plural": "South African rand",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/zar.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/zar.svg"
     }
   },
   {
@@ -1528,8 +1528,8 @@
     "code": "ZMK",
     "name_plural": "Zambian kwachas",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/zmk.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/zmk.svg"
     }
   },
   {
@@ -1541,8 +1541,8 @@
     "code": "ZWL",
     "name_plural": "Zimbabwean Dollar",
     "flag": {
-      "png": "",
-      "svg": ""
+      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/zwd.png",
+      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/zwd.svg"
     }
   }
 ]
