@@ -929,6 +929,7 @@
     "decimal_digits": 2,
     "rounding": 0,
     "code": "MOP",
+    "name_plural": null,
     "flag": {
       "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/mop.png",
       "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/mop.svg"
