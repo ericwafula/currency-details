@@ -74,7 +74,7 @@
     "name_plural": "Albanian lek\u00eb",
     "flag": {
       "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/all.png",
-      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/all.svg"
+      "svg": null
     }
   },
   {
@@ -138,7 +138,7 @@
     "code": "BAM",
     "name_plural": "Bosnia-Herzegovina convertible marks",
     "flag": {
-      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/bam.png",
+      "png": null,
       "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/bam.svg"
     }
   },
@@ -437,7 +437,7 @@
     "code": "EEK",
     "name_plural": "Estonian kroons",
     "flag": {
-      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/eek.png",
+      "png": null,
       "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/eek.svg"
     }
   },
@@ -581,7 +581,7 @@
     "name_plural": "Croatian kunas",
     "flag": {
       "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/hrk.png",
-      "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/hrk.svg"
+      "svg": null
     }
   },
   {
@@ -827,7 +827,7 @@
     "code": "LTL",
     "name_plural": "Lithuanian litai",
     "flag": {
-      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/ltl.png",
+      "png": null,
       "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/ltl.svg"
     }
   },
@@ -840,7 +840,7 @@
     "code": "LVL",
     "name_plural": "Latvian lati",
     "flag": {
-      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/lvl.png",
+      "png": null,
       "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/lvl.svg"
     }
   },
@@ -1242,7 +1242,7 @@
     "code": "SDG",
     "name_plural": "Sudanese pounds",
     "flag": {
-      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/sdg.png",
+      "png": null,
       "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/sdg.svg"
     }
   },
@@ -1528,7 +1528,7 @@
     "code": "ZMK",
     "name_plural": "Zambian kwachas",
     "flag": {
-      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/zmk.png",
+      "png": null,
       "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/zmk.svg"
     }
   },
@@ -1541,7 +1541,7 @@
     "code": "ZWL",
     "name_plural": "Zimbabwean Dollar",
     "flag": {
-      "png": "https://raw.githubusercontent.com/ericwafula/currency-flags/main/assets/flags_png_rectangle/zwd.png",
+      "png": null,
       "svg": "https://raw.githubusercontent.com/ericwafula/currency-flags/6cb2908c2077a257e0aac26f13ea884d965c074a/assets/flags_svg/zwd.svg"
     }
   }
